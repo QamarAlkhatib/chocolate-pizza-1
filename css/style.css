@@ -1,0 +1,123 @@
+body {
+    width: 920px;
+    margin: 0 auto;
+    margin-top: 20px;
+    
+  }
+  header ul {
+    float: right;
+  }
+  header li {
+    display: inline-block;
+  }
+  header div {
+    align-items: left;
+  }
+  header div div {
+    display: inline-block;
+  }
+  #hr {
+    height: 10px;
+    width: inherit;
+    background: url(https://github.com/LTUC/amman-irbid-201d35/blob/main/class-10/lab-a/lab-assets/hr-img.png?raw=true) center repeat-x;
+    background-size: auto 100%;
+    
+  }
+  h1 {
+    font-family: 'Yellowtail', cursive;
+    font-size: 35px;
+  }
+  h2 {
+    font-family: 'VT323', monospace;
+    color:gray;
+    font-size: 15px;
+  }
+  h3 {
+        font-size: 40px;
+  }
+  h4 {
+    
+    font-size: 10lx;
+    color:rgb(151, 151, 151);
+  }
+  #print {
+    float:right;
+    margin: 10px 20px;
+  }
+  main div p {
+    margin-top: 20px;
+    text-indent: 40px;
+    color:gray;
+  }
+  main ul {
+    width: 49%;
+    display: inline-block;
+    text-indent: 50px;
+    margin-bottom: 40px;
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 24px;
+    color:rgb(77, 74, 74);
+  }
+  main li:first-child {
+    margin-top: 30px;
+  }
+  #checklist {
+    margin-top:20px; 
+    background: url(https://raw.githubusercontent.com/LTUC/amman-irbid-201d35/main/class-10/lab-a/lab-assets/list-bg.png);
+    box-shadow: 5px 5px 5px rgb(144, 144, 144);
+    margin-bottom: 20px;
+  }
+  #avatar {
+    display:inline-block;
+  }
+
+  button {
+    background-color: rgb(163, 76, 17);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 20px;
+    
+ }
+
+  #button {
+    float:right;
+  }
+  #vanessaText {
+    margin: 0px;
+    text-indent: 0px;
+    margin-bottom: 10px;
+    width: 600px;
+  }
+  h5 {
+    line-height:30px;
+    font-size: 20px;
+    margin-bottom:14px;
+  }
+  
+  footer {
+    text-align: center;
+    color: gray;
+    font-size: 15px;
+    position: relative;
+  }
+  footer p {
+    opacity: 0.5;
+  }
+  footer img {
+    position: absolute;
+    top: -55px;
+  }
+  footer p:first-child {
+    margin-top:50px;
+  }
+  footer p:last-child {
+    margin-bottom:50px;
+  }
+  #endHrLogo {
+    margin-top:70px;
+    margin-bottom: 40px;
+  }
